@@ -1,6 +1,6 @@
 {
-  "name": "a01-tupshinzhu",
-  "version": "1.0.0",
+  "name": "test-webserver",
+  "version": "0.0.1",
   "description": "webserver",
   "main": "server.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a01-tupshinzhu#readme",
   "dependencies": {
-    "minimalist": "^1.0.0",
     "minimist": "^1.2.7"
   }
 }
