@@ -7,7 +7,7 @@
     "test": "node server.js --port=5555"
   },
   "author": "tupshinzhu",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
   "dependencies": {
     "minimist": "^1.2.8"
   }
